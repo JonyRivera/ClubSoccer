@@ -1,0 +1,16 @@
+<resources>
+    <string name="appName">Clubes</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="no_coche_description">Sorry!\nNo existen clubes registrados.</string>
+    <string name="clubDetailTitle">Clubes Detalle</string>
+    <string name="no">No</string>
+    <string name="costPlayers">Valor Plantilla</string>
+    <string name="descripcionClub">Nombre del CLub</string>
+    <string name="paisClub">País de Origen</string>
+    <string name="modelo_coche">Ciudad</string>
+    <string name="yearFundation">Fundado</string>
+    <string name="in_anio">%d</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+</resources>
